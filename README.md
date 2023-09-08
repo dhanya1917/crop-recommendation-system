@@ -1,4 +1,4 @@
-# crop-recommendation-system
+# crop-recommendation-system link for this dataset - https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
 The project leverages data science and machine learning techniques to analyze and interpret data related to soil quality, weather conditions, and historical crop performance to recommend crop for the farmers.​
 n this methodology, we outline the key steps involved in building a Crop Recommendation System: 
 
